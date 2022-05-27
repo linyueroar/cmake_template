@@ -1,0 +1,8 @@
+ISA: riscv
+version: RV32I
+level: machine
+
+Inst:
+    add
+    addi
+    sub
